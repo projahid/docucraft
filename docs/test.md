@@ -4,7 +4,7 @@ title:'Test'
 date:'2025-05-04'
 parent:introduction
 order:2
-author:'Brain C'
+author:Brain C
 category:testing
 tags:["test", "technology"]
 

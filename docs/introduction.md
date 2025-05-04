@@ -4,8 +4,8 @@ title:'Introduction'
 date:'2025-05-04'
 parent:null
 order:1
-author:'Alex B'
-category:'General'
+author:Alex B
+category:General
 tags:["intro", "getting-started"]
 
 ---

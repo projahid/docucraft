@@ -4,8 +4,8 @@ title:'quick start'
 date:'2025-05-04'
 parent:null
 order:2
-author:'Brain C'
-category:'quick-start'
+author:Brain C
+category:quick-start
 tags:["intro", "getting-started"]
 
 ---

@@ -4,8 +4,8 @@ title:'Analysis'
 date:'2025-05-04'
 parent:null
 order:4
-author:'Brian C'
-category:'General'
+author:Brian C
+category:General
 tags:["technology", "analytics"]
 
 ---
