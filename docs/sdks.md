@@ -1,22 +1,18 @@
+
 ---
-
-title:'SDKs'
-date:'2025-05-04'
-parent:null
-order:3
-author:Brain C
-category:sdk
-tags:["technology"]
-
+title: 'SDKs'
+date: '2024-03-12'
+parent: null
+order: 3
+author: Brian C
+category: sdk
+tags: ["technology"]
 ---
 
 ## About SDKs
-Use the Protocol API to access contacts, conversations, group messages, and more and seamlessly integrate your product into workflows of dozens of devoted Protocol users.
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore pariatur repellendus vero doloremque sint, quod aliquid possimus 
+esse labore maxime quaerat error enim! Velit incidunt soluta pariatur doloribus hic! Distinctio earum ea enim repudiandae repellat 
+vero dignissimos sequi optio nulla explicabo provident ipsum eaque incidunt, ducimus dolore dolor accusamus. Exercitationem?
 
-### Getting Started
-To get started, create a new application in your [developer setting](/dev-settings) , then read about how to make requests for the resources you need to 
-access using our HTTP APIs or dedicated client SDKs. When your integration in ready to go live, publish it to our [integrations directory](/intergration-directory)
-to
-reach the protocol community.
-
-[Get your API Key](/get-your-api-key)
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas neque quibusdam vel temporibus tempore eum, odio odit adipisci similique 
+dolor a illo iusto deserunt voluptate perspiciatis aliquid ad id sed?
