@@ -6,8 +6,8 @@ import { getDocuments} from "@/lib/documents"
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-    title: "DocuCraft - A dcumentation website by Protocol",
-    description: "A dcumentation website by Protocol",
+    title: "DocuCraft - A documentation website by Protocol",
+    description: "A documentation website by Protocol",
 };
 
 export default function RootLayout({ children }) {
