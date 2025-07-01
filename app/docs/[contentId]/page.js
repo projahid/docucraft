@@ -1,10 +1,10 @@
 
-import ContentDisplay from "../../../components/ContextDisplay"
+import ContentDisplay from "../../../../components/ContextDisplay"
 
-const ContentPage = ({params: {contentId}}) => {
-  return (
-    <ContentDisplay id={contentId} />
-  )
-}
+const SubContentPage = ({params: {subContentId}}) => {
+    return (
+        <ContentDisplay id={subContentId} />
+    )
+  }
 
-export default ContentPage
+  export default SubContentPage
