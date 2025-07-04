@@ -2,8 +2,11 @@
 
 import {useState} from 'react';
 // import { useDebounce } from "@/hooks/useDebounce"
+// import { useDebounce } from '@../lib/hooks/useDebounce'
+import { useDebounce } from '../lib/hooks/useDebounce'
 import Image from 'next/image';
 // import SearchResult from './SearchResult';
+import SearchResult from './SearchResult'
 import { useRouter } from 'next/navigation';
 
 const Search = ({docs}) => {
